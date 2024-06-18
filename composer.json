@@ -1,0 +1,6 @@
+{
+    "name": "kay/google-drive-sync",
+    "require": {
+        "google/apiclient": "2.0"
+    }
+}
