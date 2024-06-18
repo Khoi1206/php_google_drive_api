@@ -36,6 +36,7 @@ class ComposerStaticInitad80861a60f5faab93c5ef35a19891e9
             'GuzzleHttp\\' => 11,
             'Google\\Service\\' => 15,
             'Google\\Auth\\' => 12,
+            'GoogleDriveSync\\' => 16,
         ),
         'F' => 
         array (
@@ -83,6 +84,10 @@ class ComposerStaticInitad80861a60f5faab93c5ef35a19891e9
         'Google\\Auth\\' => 
         array (
             0 => __DIR__ . '/..' . '/google/auth/src',
+        ),
+        'GoogleDriveSync\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'Firebase\\JWT\\' => 
         array (
